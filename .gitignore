@@ -2,4 +2,10 @@
 .venv/
 experiments/
 lora_results/
+unsloth_compiled_cache/
+outputs/
 .env
+unsloth-training.py
+
+# logs
+logs/

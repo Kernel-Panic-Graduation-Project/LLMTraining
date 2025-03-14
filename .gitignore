@@ -4,6 +4,7 @@ experiments/
 lora_results/
 unsloth_compiled_cache/
 outputs/
+trained_outputs/
 .env
 unsloth-training.py
 

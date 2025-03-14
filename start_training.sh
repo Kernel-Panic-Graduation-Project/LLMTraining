@@ -11,7 +11,7 @@ eval "$(conda shell.bash hook)"
 conda activate env1
 module load cuda/12.4
 
-cd /home/kernelpanic/bitirme/LLM-Training/
+cd /home/kernelpanic/bitirme/LLMTraining/
 
 # Create logs directory if it doesn't exist
 mkdir -p logs
